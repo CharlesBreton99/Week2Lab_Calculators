@@ -16,7 +16,7 @@
 
         <form method="post" action="">
 
-            <label>Enter your age: </label> <input type="number" name="age" value="">   
+            <label>Enter your age: </label> <input type="text" name="age" value="${age}">   
 
             <p>${message}</p>
 
